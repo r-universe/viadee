@@ -1,1 +1,6 @@
-[]
+[
+  {
+    "package": "localICE",
+    "oncran": true
+  }
+]
